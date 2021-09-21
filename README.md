@@ -8,10 +8,7 @@
 
   >Lover of technology, coding, cats :cat:, IOT and Bitcoin
 
-<!-- <img src="https://c.tenor.com/yZkIeMDcbsQAAAAS/fiesta-dance.gif">  -->
-
 ![](https://c.tenor.com/yZkIeMDcbsQAAAAS/fiesta-dance.gif)
-
 ## **Languages**
 
 ![javascript badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -67,5 +64,11 @@
 
 ---
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalysmcarrara&show_icons=true&locale=en" alt="thalysmcarrara" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalysmcarrara&" alt="thalysmcarrara" /></p>
+
 ## Contact 
+
 [![linkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalys-matias-carrara/)
