@@ -43,6 +43,13 @@
 
 ---
 
+## **knowledge of good practices and code architecture**
+
+  - *DRY* : don't repeat yourself
+  - *TDD* : test driven development
+  - *MVCS* : model, view, controler and service
+  - *SCRUM* : agile methodology
+
 ## **Projects**
 
 
@@ -62,6 +69,8 @@
 
   - [star wars planets link](https://star-wars-data-table.vercel.app/)
 
+  - [repository](https://github.com/thalysmcarrara/StarWars-DataTable)
+
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalysmcarrara&show_icons=true&locale=en" alt="thalysmcarrara" /></p>
@@ -75,6 +84,9 @@
   - computer networks [link](https://www.amazon.com.br/Redes-computadores-internet-abordagem-top-down-dp-8581436773/dp/8581436773/ref=dp_ob_image_bk)
 
 ---
+
+![](https://c.tenor.com/_FeTJs4L9QUAAAAC/im-a-developer-craig-dennis-freecodecamp.gif)
+
 
 ## Contact 
 
