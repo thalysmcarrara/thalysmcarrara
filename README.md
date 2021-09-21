@@ -69,6 +69,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalysmcarrara&" alt="thalysmcarrara" /></p>
 
+---
+
+## Learning now about:
+  - computer networks [link](https://www.amazon.com.br/Redes-computadores-internet-abordagem-top-down-dp-8581436773/dp/8581436773/ref=dp_ob_image_bk)
+
+---
+
 ## Contact 
 
 [![linkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalys-matias-carrara/)
