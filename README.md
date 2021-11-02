@@ -50,27 +50,6 @@
   - *MVCS* : model, view, controler and service
   - *SCRUM* : agile methodology
 
-## **Projects**
-
-
-### 1. Star wars planets
-
-![](assets/starwarsdatatable.png)
-
-### made with:
-  > javascript
-  
-  > react
-
-  > hooks
-
-  
-  :heavy_exclamation_mark: this application was made to run on a desktop browser, you can use it in the link below:heavy_exclamation_mark:
-
-  - [star wars planets link](https://star-wars-data-table.vercel.app/)
-
-  - [repository](https://github.com/thalysmcarrara/StarWars-DataTable)
-
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalysmcarrara&show_icons=true&locale=en" alt="thalysmcarrara" /></p>
