@@ -47,7 +47,7 @@
 
   - *DRY* : don't repeat yourself
   - *TDD* : test driven development
-  - *MVCS* : model, view, controler and service
+  - *MSC* : model, service and controler
   - *SCRUM* : agile methodology
 
 ---
