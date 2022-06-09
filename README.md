@@ -6,7 +6,7 @@
 
   >Fullstack developer 
 
-  >Lover of technology, coding, cats :cat:, IOT and Blockchain
+  >Lover of technology, coding, cats :cat:, IOT and Bitcoin
 
 ![](https://c.tenor.com/yZkIeMDcbsQAAAAS/fiesta-dance.gif)
 ## **Languages**
