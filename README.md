@@ -4,7 +4,7 @@
 ---
   >computer enginneer :computer:
 
-  >Fullstack developer 
+  > Developer 
 
   >Lover of technology, coding, cats :cat:, IOT and Bitcoin
 
