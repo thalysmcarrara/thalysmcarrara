@@ -6,7 +6,7 @@
 
   > Developer 
 
-  >Lover of technology, coding, cats :cat:, IOT and Bitcoin
+  >Lover of technology, coding, IOT and Bitcoin
 
 ![](https://c.tenor.com/yZkIeMDcbsQAAAAS/fiesta-dance.gif)
 ## **Languages**
