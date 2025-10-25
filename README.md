@@ -96,13 +96,6 @@
 
 ---
 
-## Learning now about:
-  - computer networks [link](https://www.amazon.com.br/Redes-computadores-internet-abordagem-top-down-dp-8581436773/dp/8581436773/ref=dp_ob_image_bk)
-
----
-
-![](https://c.tenor.com/_FeTJs4L9QUAAAAC/im-a-developer-craig-dennis-freecodecamp.gif)
-
 
 ## Contact 
 
